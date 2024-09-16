@@ -31,7 +31,7 @@ Installation
 1. Clone the repository:
 
 
-2. Open index.html in your preferred browser.
+2. Open weather.html in your preferred browser.
 
 
 
